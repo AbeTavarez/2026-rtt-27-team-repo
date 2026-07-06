@@ -1,7 +1,10 @@
 * {
     margin: 0;
 }
-.body{
-    color: blueviolet;
-    background-color: brown;
+
+body {
+    font-family: Arial, sans-serif;
+     background-color: aqua;
+    color: #333;
+    padding: 20px;
 }
