@@ -1,7 +1,24 @@
 * {
     margin: 0;
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+=======
+
+body {
+    font-family: Arial, sans-serif;
+     background-color: aqua;
+    color: #333;
+>>>>>>> e8d0e5966e9b2abf819c1ebd7d3123e8ef3c8fa3
+    padding: 20px;
+=======
 
 body {
     background-color: indigo;
+>>>>>>> 3842a0718ffc0e34bf5e4e1cd332adea34c2e8ad
 }
