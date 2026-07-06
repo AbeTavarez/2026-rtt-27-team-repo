@@ -1,3 +1,14 @@
 * {
     margin: 0;
 }
+
+h1 {
+    color: green;
+}
+
+body {
+    background-color: blueviolet;
+    text-decoration: underline;
+    text-align: center;
+    background-clip: text;
+}
