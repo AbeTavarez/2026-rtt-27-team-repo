@@ -1,3 +1,11 @@
 * {
     margin: 0;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ef1a9a;
+    color: #faf0f4;
+    line-height: 1.6;
+    padding: 20px;
+}
