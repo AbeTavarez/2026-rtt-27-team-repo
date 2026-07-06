@@ -1,3 +1,8 @@
 * {
     margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+    padding: 20px;
 }
